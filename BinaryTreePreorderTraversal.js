@@ -17,5 +17,6 @@
     var node = null;
     while (queue.length) {
         node = queue.pop();
+        res.push(node.val);
       }
 };
