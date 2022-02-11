@@ -33,6 +33,7 @@
 - Pop the last element from the queue and push it into the result array.
 - Check if the node has a right child and push it into the queue.
 - Check if the node has a left child and push it into the queue.
+- Continue the while loop until the queue is empty.
 
 
 */
