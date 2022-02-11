@@ -16,6 +16,6 @@
     var queue = [root];
     var node = null;
     while (queue.length) {
-        
+        node = queue.pop();
       }
 };
