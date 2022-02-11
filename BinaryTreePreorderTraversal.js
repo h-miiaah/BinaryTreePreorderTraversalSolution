@@ -29,6 +29,7 @@
 
 - Initialize a result array and a queue.
 - Push the root node into the queue.
+- Start a while loop with the condition queue.length > 0.
 
 
 */
