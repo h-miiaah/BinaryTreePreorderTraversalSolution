@@ -28,6 +28,7 @@
 /*
 
 - Initialize a result array and a queue.
+- Push the root node into the queue.
 
 
 */
