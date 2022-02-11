@@ -14,4 +14,5 @@
     if (!root) return [];
     var res = [];
     var queue = [root];
+    var node = null;
 };
