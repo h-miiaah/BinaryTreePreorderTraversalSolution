@@ -19,5 +19,6 @@
         node = queue.pop();
         res.push(node.val);
         if (node.right) queue.push(node.right);
+        if (node.left) queue.push(node.left);
       }
 };
