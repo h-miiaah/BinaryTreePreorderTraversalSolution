@@ -27,6 +27,7 @@
 
 /*
 
+- Initialize a result array and a queue.
 
 
 */
