@@ -11,5 +11,5 @@
  * @return {number[]}
  */
  var preorderTraversal = function(root) {
-  
+    if (!root) return [];
 };
